@@ -28,11 +28,21 @@ public final class R {
     }
     public static final class id {
         public static final int LinearLayout1=0x7f090000;
-        public static final int action_settings=0x7f090005;
-        public static final int money=0x7f090002;
-        public static final int moneyName=0x7f090001;
-        public static final int save=0x7f090004;
-        public static final int type=0x7f090003;
+        public static final int action_settings=0x7f09000f;
+        public static final int date=0x7f090002;
+        public static final int description=0x7f090006;
+        public static final int descriptionName=0x7f090005;
+        public static final int graph=0x7f09000b;
+        public static final int list=0x7f09000a;
+        public static final int money=0x7f090004;
+        public static final int moneyName=0x7f090003;
+        public static final int mySimpleXYPlot=0x7f09000c;
+        public static final int register=0x7f090001;
+        public static final int registers=0x7f090009;
+        public static final int save=0x7f090008;
+        public static final int tab4=0x7f09000d;
+        public static final int textView4=0x7f09000e;
+        public static final int type=0x7f090007;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -43,8 +53,9 @@ public final class R {
     public static final class string {
         public static final int action_settings=0x7f050001;
         public static final int app_name=0x7f050000;
+        public static final int description_name=0x7f050003;
         public static final int money_name=0x7f050002;
-        public static final int save=0x7f050003;
+        public static final int save=0x7f050004;
     }
     public static final class style {
         /** 

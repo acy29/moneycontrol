@@ -4,6 +4,7 @@
     <string name="app_name">Moneycontrol</string>
     <string name="action_settings">Settings</string>
     <string name="money_name">Cantidad</string>
+    <string name="description_name">Descripcion</string>
     <string name="save">Guardar</string>
 
     <string-array name="type">
